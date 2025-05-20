@@ -1,7 +1,4 @@
 # Transaction Processor Application
-
-![Transaction Processor Screenshot](./screenshot.png)
-
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
